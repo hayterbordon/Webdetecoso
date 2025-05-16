@@ -1464,7 +1464,7 @@ Parallax backgrounds
 .parallax-overlay {
   background: #ffc100;
   background: -webkit-linear-gradient(left, #ff8d00, #ff8e09);
-  background: -moz-linear-gradient(left, #344880, #1ecfca);
+  background: -moz-linear-gradient(left, #ff8d00, #292929);
   background: -webkit-linear-gradient(left, #0b0b0b, #cf751e);
   position: absolute;
   left: 0;

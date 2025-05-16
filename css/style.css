@@ -14,6 +14,11 @@ Assan saas web app landing template stylesheet
 Basic of template
 */
 /* En pantallas móviles, ocultamos el logo de móvil */
+.social-img {
+    width: 90px; /* Ajusta el tamaño a tu preferencia */
+    height: 90px; /* Mantén la proporción para que no se distorsione */
+    object-fit: contain; /* Asegura que la imagen se ajuste sin recortarse */
+}
 @media (max-width: 767px) {
   .logo-trans {
       display: none !important; /* Oculta el logo de móvil en pantallas pequeñas */

@@ -145,11 +145,11 @@ ul, ol {
   font-size: 13px; }
 
 .badge-primary {
-  background: #1ecfca !important; }
+  background: #fa9140 !important; }
 
 .bg-primary {
-  background: #1ecfca !important;
-  border-color: #1ecfca; }
+  background: #fa9140 !important;
+  border-color: #fa9140; }
 
 .bg-primary-dark {
   background: #ff9800 !important;
@@ -165,8 +165,8 @@ ul, ol {
   border-color: #fa9140; }
 
 .bg-info {
-  background-color: #19b0f5;
-  border-color: #19b0f5; }
+  background-color: #fa9140;
+  border-color: #fa9140; }
 
 .bg-danger {
   background-color: #fa5240;
@@ -679,16 +679,16 @@ Buttons
       background-color: #1ecfca; }
 
 .btn-outline-info {
-  border: 2px solid #19b0f5;
+  border: 2px solid #fa9140;
   background-color: transparent;
-  color: #19b0f5; }
+  color: #fa9140; }
   .btn-outline-info:hover, .btn-outline-info:focus, .btn-outline-info:active {
     color: #fff;
-    border-color: #19b0f5;
+    border-color: #fa9140;
     background-color: transparent; }
     .btn-outline-info:hover:before, .btn-outline-info:focus:before, .btn-outline-info:active:before {
       width: 100%;
-      background-color: #19b0f5; }
+      background-color: #fa9140; }
 
 .btn-outline-success {
   border: 2px solid #46da60;

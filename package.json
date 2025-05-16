@@ -1,0 +1,27 @@
+{
+  "name": "landing-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build",
+    "dev": "gulp watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.70.0",
+    "bower": "^1.8.14",
+    "gulp-debug": "^4.0.0"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14 <=16"
+  }
+}

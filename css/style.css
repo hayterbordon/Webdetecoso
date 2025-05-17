@@ -125,7 +125,7 @@ ul, ol {
   font-size: 12px !important; }
 
 .font300 {
-  font-weight: 300 !important; }
+  font-weight: 700 !important; }
 
 .font400 {
   font-weight: 400 !important; }
@@ -1458,7 +1458,7 @@ Parallax backgrounds
   background: #ffc100;
   background: -webkit-linear-gradient(left, #ff8d00, #ff8e09);
   background: -moz-linear-gradient(left, #344880, #1ecfca);
-  background: -webkit-linear-gradient(left, #0b0b0b, #cf751e);
+  background: -webkit-linear-gradient(left, #fbff00, #cf751e);
   position: absolute;
   left: 0;
   top: 0;
